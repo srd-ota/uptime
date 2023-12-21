@@ -1,7 +1,7 @@
 url: https://ekyc.appota.ai
-status: up
-code: 200
-responseTime: 826
-lastUpdated: 2023-12-20T23:15:08.100Z
+status: down
+code: 503
+responseTime: 671
+lastUpdated: 2023-12-21T07:56:12.718Z
 startTime: 2023-02-18T15:19:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
